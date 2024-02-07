@@ -1,4 +1,8 @@
 hello3.txt
+<<<<<<< HEAD
 Welcome to Yonsai~!
 THE END
+=======
+Welcome~! asd
+>>>>>>> br1-1
 THE END
