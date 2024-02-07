@@ -2,4 +2,3 @@ hello3.txt
 Welcome to Yonsai~!
 THE END
 이제 끝
-다시 시작
